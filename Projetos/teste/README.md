@@ -24,9 +24,9 @@ cd seu-repositorio
 
 3. Execute o arquivo:
 
-python auteloganalizer.pyhttps://mail.google.com/mail/u/0?ui=2&ik=6ec04615dc&attid=0.1&permmsgid=msg-a:r-4374513035660446456&th=19db04be3eb7d843&view=att&disp=safe&realattid=f_mo8o4qaz0&zw
+📌 Exemplo de saída:
+<img width="979" height="512" alt="2026-04-02 (1)" src="https://github.com/user-attachments/assets/fae664a4-4176-4128-a94b-c518d71c6e7d" />
 
-📌 Exemplo de saída
 
 ⚠️ Usuário "user2" com múltiplas tentativas de login detectadas.
 
