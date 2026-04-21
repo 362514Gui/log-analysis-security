@@ -25,7 +25,7 @@ cd seu-repositorio
 3. Execute o arquivo:
 
 📌 Exemplo de saída:
-<img width="979" height="512" alt="2026-04-02 (1)" src="https://github.com/user-attachments/assets/fae664a4-4176-4128-a94b-c518d71c6e7d" />
+<img width="1366" height="768" alt="Resultado" src="https://github.com/user-attachments/assets/f2c1a8e4-6f25-412a-b515-0168a7229746" />
 
 
 ⚠️ Usuário "user2" com múltiplas tentativas de login detectadas.
